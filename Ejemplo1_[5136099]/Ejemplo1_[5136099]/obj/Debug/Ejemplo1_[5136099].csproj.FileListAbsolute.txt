@@ -1,0 +1,14 @@
+E:\2do Año\Proyectos Desarrollo De Software B\Tecno. A\Semana 3-4\Práctica_1\Guía_1\Ejemplo1_[5136099]\Ejemplo1_[5136099]\bin\Debug\Ejemplo1_[5136099].exe.config
+E:\2do Año\Proyectos Desarrollo De Software B\Tecno. A\Semana 3-4\Práctica_1\Guía_1\Ejemplo1_[5136099]\Ejemplo1_[5136099]\bin\Debug\Ejemplo1_[5136099].exe
+E:\2do Año\Proyectos Desarrollo De Software B\Tecno. A\Semana 3-4\Práctica_1\Guía_1\Ejemplo1_[5136099]\Ejemplo1_[5136099]\bin\Debug\Ejemplo1_[5136099].pdb
+E:\2do Año\Proyectos Desarrollo De Software B\Tecno. A\Semana 3-4\Práctica_1\Guía_1\Ejemplo1_[5136099]\Ejemplo1_[5136099]\obj\Debug\Ejemplo1_[5136099].csproj.AssemblyReference.cache
+E:\2do Año\Proyectos Desarrollo De Software B\Tecno. A\Semana 3-4\Práctica_1\Guía_1\Ejemplo1_[5136099]\Ejemplo1_[5136099]\obj\Debug\Ejemplo1_[5136099].csproj.CoreCompileInputs.cache
+E:\2do Año\Proyectos Desarrollo De Software B\Tecno. A\Semana 3-4\Práctica_1\Guía_1\Ejemplo1_[5136099]\Ejemplo1_[5136099]\obj\Debug\Ejemplo1_[5136099].exe
+E:\2do Año\Proyectos Desarrollo De Software B\Tecno. A\Semana 3-4\Práctica_1\Guía_1\Ejemplo1_[5136099]\Ejemplo1_[5136099]\obj\Debug\Ejemplo1_[5136099].pdb
+E:\2do Año\Proyectos Desarrollo De Software B\Tecno. A\Semana 3-4\Guía_1\Ejemplo1_[5136099]\Ejemplo1_[5136099]\bin\Debug\Ejemplo1_[5136099].exe.config
+E:\2do Año\Proyectos Desarrollo De Software B\Tecno. A\Semana 3-4\Guía_1\Ejemplo1_[5136099]\Ejemplo1_[5136099]\bin\Debug\Ejemplo1_[5136099].exe
+E:\2do Año\Proyectos Desarrollo De Software B\Tecno. A\Semana 3-4\Guía_1\Ejemplo1_[5136099]\Ejemplo1_[5136099]\bin\Debug\Ejemplo1_[5136099].pdb
+E:\2do Año\Proyectos Desarrollo De Software B\Tecno. A\Semana 3-4\Guía_1\Ejemplo1_[5136099]\Ejemplo1_[5136099]\obj\Debug\Ejemplo1_[5136099].csproj.AssemblyReference.cache
+E:\2do Año\Proyectos Desarrollo De Software B\Tecno. A\Semana 3-4\Guía_1\Ejemplo1_[5136099]\Ejemplo1_[5136099]\obj\Debug\Ejemplo1_[5136099].csproj.CoreCompileInputs.cache
+E:\2do Año\Proyectos Desarrollo De Software B\Tecno. A\Semana 3-4\Guía_1\Ejemplo1_[5136099]\Ejemplo1_[5136099]\obj\Debug\Ejemplo1_[5136099].exe
+E:\2do Año\Proyectos Desarrollo De Software B\Tecno. A\Semana 3-4\Guía_1\Ejemplo1_[5136099]\Ejemplo1_[5136099]\obj\Debug\Ejemplo1_[5136099].pdb
