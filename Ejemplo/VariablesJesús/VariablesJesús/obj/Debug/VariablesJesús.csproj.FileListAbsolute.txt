@@ -1,0 +1,10 @@
+C:\Users\ANGEL\Desktop\USB\5136099\ejercicios5136099\PeriodoIII\Práctica_6\VariablesJesús\VariablesJesús\bin\Debug\VariablesJesús.exe.config
+C:\Users\ANGEL\Desktop\USB\5136099\ejercicios5136099\PeriodoIII\Práctica_6\VariablesJesús\VariablesJesús\bin\Debug\VariablesJesús.exe
+C:\Users\ANGEL\Desktop\USB\5136099\ejercicios5136099\PeriodoIII\Práctica_6\VariablesJesús\VariablesJesús\bin\Debug\VariablesJesús.pdb
+C:\Users\ANGEL\Desktop\USB\5136099\ejercicios5136099\PeriodoIII\Práctica_6\VariablesJesús\VariablesJesús\obj\Debug\VariablesJesús.csproj.AssemblyReference.cache
+C:\Users\ANGEL\Desktop\USB\5136099\ejercicios5136099\PeriodoIII\Práctica_6\VariablesJesús\VariablesJesús\obj\Debug\VariablesJesús.Form1.resources
+C:\Users\ANGEL\Desktop\USB\5136099\ejercicios5136099\PeriodoIII\Práctica_6\VariablesJesús\VariablesJesús\obj\Debug\VariablesJesús.Properties.Resources.resources
+C:\Users\ANGEL\Desktop\USB\5136099\ejercicios5136099\PeriodoIII\Práctica_6\VariablesJesús\VariablesJesús\obj\Debug\VariablesJesús.csproj.GenerateResource.cache
+C:\Users\ANGEL\Desktop\USB\5136099\ejercicios5136099\PeriodoIII\Práctica_6\VariablesJesús\VariablesJesús\obj\Debug\VariablesJesús.csproj.CoreCompileInputs.cache
+C:\Users\ANGEL\Desktop\USB\5136099\ejercicios5136099\PeriodoIII\Práctica_6\VariablesJesús\VariablesJesús\obj\Debug\VariablesJesús.exe
+C:\Users\ANGEL\Desktop\USB\5136099\ejercicios5136099\PeriodoIII\Práctica_6\VariablesJesús\VariablesJesús\obj\Debug\VariablesJesús.pdb
