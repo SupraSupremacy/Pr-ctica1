@@ -1,0 +1,30 @@
+C:\Users\ANGEL\Desktop\USB\5136099\ejercicios5136099\PeriodoIII\Práctica_6\Ejercicios\Evaluación2_Jesús\Evaluación2_Jesús\bin\Debug\Evaluación2_Jesús.exe.config
+C:\Users\ANGEL\Desktop\USB\5136099\ejercicios5136099\PeriodoIII\Práctica_6\Ejercicios\Evaluación2_Jesús\Evaluación2_Jesús\bin\Debug\Evaluación2_Jesús.exe
+C:\Users\ANGEL\Desktop\USB\5136099\ejercicios5136099\PeriodoIII\Práctica_6\Ejercicios\Evaluación2_Jesús\Evaluación2_Jesús\bin\Debug\Evaluación2_Jesús.pdb
+C:\Users\ANGEL\Desktop\USB\5136099\ejercicios5136099\PeriodoIII\Práctica_6\Ejercicios\Evaluación2_Jesús\Evaluación2_Jesús\obj\Debug\Evaluación2_Jesús.csproj.AssemblyReference.cache
+C:\Users\ANGEL\Desktop\USB\5136099\ejercicios5136099\PeriodoIII\Práctica_6\Ejercicios\Evaluación2_Jesús\Evaluación2_Jesús\obj\Debug\Evaluación2_Jesús.Form1.resources
+C:\Users\ANGEL\Desktop\USB\5136099\ejercicios5136099\PeriodoIII\Práctica_6\Ejercicios\Evaluación2_Jesús\Evaluación2_Jesús\obj\Debug\Evaluación2_Jesús.Properties.Resources.resources
+C:\Users\ANGEL\Desktop\USB\5136099\ejercicios5136099\PeriodoIII\Práctica_6\Ejercicios\Evaluación2_Jesús\Evaluación2_Jesús\obj\Debug\Evaluación2_Jesús.csproj.GenerateResource.cache
+C:\Users\ANGEL\Desktop\USB\5136099\ejercicios5136099\PeriodoIII\Práctica_6\Ejercicios\Evaluación2_Jesús\Evaluación2_Jesús\obj\Debug\Evaluación2_Jesús.csproj.CoreCompileInputs.cache
+C:\Users\ANGEL\Desktop\USB\5136099\ejercicios5136099\PeriodoIII\Práctica_6\Ejercicios\Evaluación2_Jesús\Evaluación2_Jesús\obj\Debug\Evaluación2_Jesús.exe
+C:\Users\ANGEL\Desktop\USB\5136099\ejercicios5136099\PeriodoIII\Práctica_6\Ejercicios\Evaluación2_Jesús\Evaluación2_Jesús\obj\Debug\Evaluación2_Jesús.pdb
+F:\5136099\ejercicios5136099\PeriodoIII\Práctica_6\Ejercicios\Evaluación2_Jesús\Evaluación2_Jesús\obj\Debug\Evaluación2_Jesús.csproj.AssemblyReference.cache
+F:\5136099\ejercicios5136099\PeriodoIII\Práctica_6\Ejercicios\Evaluación2_Jesús\Evaluación2_Jesús\obj\Debug\Evaluación2_Jesús.Form1.resources
+F:\5136099\ejercicios5136099\PeriodoIII\Práctica_6\Ejercicios\Evaluación2_Jesús\Evaluación2_Jesús\obj\Debug\Evaluación2_Jesús.Properties.Resources.resources
+F:\5136099\ejercicios5136099\PeriodoIII\Práctica_6\Ejercicios\Evaluación2_Jesús\Evaluación2_Jesús\obj\Debug\Evaluación2_Jesús.csproj.GenerateResource.cache
+F:\5136099\ejercicios5136099\PeriodoIII\Práctica_6\Ejercicios\Evaluación2_Jesús\Evaluación2_Jesús\obj\Debug\Evaluación2_Jesús.csproj.CoreCompileInputs.cache
+F:\5136099\ejercicios5136099\PeriodoIII\Práctica_6\Ejercicios\Evaluación2_Jesús\Evaluación2_Jesús\obj\Debug\Evaluación2_Jesús.exe
+F:\5136099\ejercicios5136099\PeriodoIII\Práctica_6\Ejercicios\Evaluación2_Jesús\Evaluación2_Jesús\obj\Debug\Evaluación2_Jesús.pdb
+F:\5136099\ejercicios5136099\PeriodoIII\Práctica_6\Ejercicios\Evaluación2_Jesús\Evaluación2_Jesús\bin\Debug\Evaluación2_Jesús.exe.config
+F:\5136099\ejercicios5136099\PeriodoIII\Práctica_6\Ejercicios\Evaluación2_Jesús\Evaluación2_Jesús\bin\Debug\Evaluación2_Jesús.exe
+F:\5136099\ejercicios5136099\PeriodoIII\Práctica_6\Ejercicios\Evaluación2_Jesús\Evaluación2_Jesús\bin\Debug\Evaluación2_Jesús.pdb
+E:\1er Año\5136099\ejercicios5136099\PeriodoIII\Práctica_6\Ejercicios\Evaluación2_Jesús\Evaluación2_Jesús\bin\Debug\Evaluación2_Jesús.exe.config
+E:\1er Año\5136099\ejercicios5136099\PeriodoIII\Práctica_6\Ejercicios\Evaluación2_Jesús\Evaluación2_Jesús\bin\Debug\Evaluación2_Jesús.exe
+E:\1er Año\5136099\ejercicios5136099\PeriodoIII\Práctica_6\Ejercicios\Evaluación2_Jesús\Evaluación2_Jesús\bin\Debug\Evaluación2_Jesús.pdb
+E:\1er Año\5136099\ejercicios5136099\PeriodoIII\Práctica_6\Ejercicios\Evaluación2_Jesús\Evaluación2_Jesús\obj\Debug\Evaluación2_Jesús.csproj.AssemblyReference.cache
+E:\1er Año\5136099\ejercicios5136099\PeriodoIII\Práctica_6\Ejercicios\Evaluación2_Jesús\Evaluación2_Jesús\obj\Debug\Evaluación2_Jesús.Form1.resources
+E:\1er Año\5136099\ejercicios5136099\PeriodoIII\Práctica_6\Ejercicios\Evaluación2_Jesús\Evaluación2_Jesús\obj\Debug\Evaluación2_Jesús.Properties.Resources.resources
+E:\1er Año\5136099\ejercicios5136099\PeriodoIII\Práctica_6\Ejercicios\Evaluación2_Jesús\Evaluación2_Jesús\obj\Debug\Evaluación2_Jesús.csproj.GenerateResource.cache
+E:\1er Año\5136099\ejercicios5136099\PeriodoIII\Práctica_6\Ejercicios\Evaluación2_Jesús\Evaluación2_Jesús\obj\Debug\Evaluación2_Jesús.csproj.CoreCompileInputs.cache
+E:\1er Año\5136099\ejercicios5136099\PeriodoIII\Práctica_6\Ejercicios\Evaluación2_Jesús\Evaluación2_Jesús\obj\Debug\Evaluación2_Jesús.exe
+E:\1er Año\5136099\ejercicios5136099\PeriodoIII\Práctica_6\Ejercicios\Evaluación2_Jesús\Evaluación2_Jesús\obj\Debug\Evaluación2_Jesús.pdb
