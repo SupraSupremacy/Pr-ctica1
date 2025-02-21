@@ -1,0 +1,10 @@
+C:\Users\ANGEL\Desktop\USB\5136099\ejercicios5136099\PeriodoIII\Práctica_6\Ejercicios\Evaluación1_Jesús\Evaluación1_Jesús\bin\Debug\Evaluación1_Jesús.exe.config
+C:\Users\ANGEL\Desktop\USB\5136099\ejercicios5136099\PeriodoIII\Práctica_6\Ejercicios\Evaluación1_Jesús\Evaluación1_Jesús\bin\Debug\Evaluación1_Jesús.exe
+C:\Users\ANGEL\Desktop\USB\5136099\ejercicios5136099\PeriodoIII\Práctica_6\Ejercicios\Evaluación1_Jesús\Evaluación1_Jesús\bin\Debug\Evaluación1_Jesús.pdb
+C:\Users\ANGEL\Desktop\USB\5136099\ejercicios5136099\PeriodoIII\Práctica_6\Ejercicios\Evaluación1_Jesús\Evaluación1_Jesús\obj\Debug\Evaluación1_Jesús.csproj.AssemblyReference.cache
+C:\Users\ANGEL\Desktop\USB\5136099\ejercicios5136099\PeriodoIII\Práctica_6\Ejercicios\Evaluación1_Jesús\Evaluación1_Jesús\obj\Debug\Evaluación1_Jesús.Form1.resources
+C:\Users\ANGEL\Desktop\USB\5136099\ejercicios5136099\PeriodoIII\Práctica_6\Ejercicios\Evaluación1_Jesús\Evaluación1_Jesús\obj\Debug\Evaluación1_Jesús.Properties.Resources.resources
+C:\Users\ANGEL\Desktop\USB\5136099\ejercicios5136099\PeriodoIII\Práctica_6\Ejercicios\Evaluación1_Jesús\Evaluación1_Jesús\obj\Debug\Evaluación1_Jesús.csproj.GenerateResource.cache
+C:\Users\ANGEL\Desktop\USB\5136099\ejercicios5136099\PeriodoIII\Práctica_6\Ejercicios\Evaluación1_Jesús\Evaluación1_Jesús\obj\Debug\Evaluación1_Jesús.csproj.CoreCompileInputs.cache
+C:\Users\ANGEL\Desktop\USB\5136099\ejercicios5136099\PeriodoIII\Práctica_6\Ejercicios\Evaluación1_Jesús\Evaluación1_Jesús\obj\Debug\Evaluación1_Jesús.exe
+C:\Users\ANGEL\Desktop\USB\5136099\ejercicios5136099\PeriodoIII\Práctica_6\Ejercicios\Evaluación1_Jesús\Evaluación1_Jesús\obj\Debug\Evaluación1_Jesús.pdb
