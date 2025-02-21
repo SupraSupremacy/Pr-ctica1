@@ -1,0 +1,7 @@
+E:\2do Año\Proyectos Desarrollo De Software B\Tecno. A\Semana 3-4\Guía_1\Ejercicio2.3_[5136099]\Actividad2.3_[5136099]\Actividad2.3_[5136099]\bin\Debug\Actividad2.3_[5136099].exe.config
+E:\2do Año\Proyectos Desarrollo De Software B\Tecno. A\Semana 3-4\Guía_1\Ejercicio2.3_[5136099]\Actividad2.3_[5136099]\Actividad2.3_[5136099]\bin\Debug\Actividad2.3_[5136099].exe
+E:\2do Año\Proyectos Desarrollo De Software B\Tecno. A\Semana 3-4\Guía_1\Ejercicio2.3_[5136099]\Actividad2.3_[5136099]\Actividad2.3_[5136099]\bin\Debug\Actividad2.3_[5136099].pdb
+E:\2do Año\Proyectos Desarrollo De Software B\Tecno. A\Semana 3-4\Guía_1\Ejercicio2.3_[5136099]\Actividad2.3_[5136099]\Actividad2.3_[5136099]\obj\Debug\Actividad2.3_[5136099].csproj.AssemblyReference.cache
+E:\2do Año\Proyectos Desarrollo De Software B\Tecno. A\Semana 3-4\Guía_1\Ejercicio2.3_[5136099]\Actividad2.3_[5136099]\Actividad2.3_[5136099]\obj\Debug\Actividad2.3_[5136099].csproj.CoreCompileInputs.cache
+E:\2do Año\Proyectos Desarrollo De Software B\Tecno. A\Semana 3-4\Guía_1\Ejercicio2.3_[5136099]\Actividad2.3_[5136099]\Actividad2.3_[5136099]\obj\Debug\Actividad2.3_[5136099].exe
+E:\2do Año\Proyectos Desarrollo De Software B\Tecno. A\Semana 3-4\Guía_1\Ejercicio2.3_[5136099]\Actividad2.3_[5136099]\Actividad2.3_[5136099]\obj\Debug\Actividad2.3_[5136099].pdb
